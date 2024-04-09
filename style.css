@@ -17,8 +17,20 @@ body{
 .main_div{
     
     border: solid;
+    margin-inline: 23.5em;
 }
 
+.head{
+    margin-block: .5em;
+}
+
+.first_com{
+    margin-bottom: 2em; 
+}
+
+.prep_time{
+    background-color:hsl(330, 100%, 98%);
+}
 
 .cal{
     display: flex;
