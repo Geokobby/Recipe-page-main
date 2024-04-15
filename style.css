@@ -43,7 +43,13 @@ body{
 .first_list{
     padding-left: 2em;
 }
- 
+  .list_item{
+    padding-bottom: .7em;
+  }
+
+  b{
+    margin-left: 1em;
+  }
 span{
     
 }
