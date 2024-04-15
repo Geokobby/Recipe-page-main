@@ -59,7 +59,7 @@ h2{
     margin-block: .5em;
 }
 
-.ingre, .instru{
+.ingre, .instru , .nutri{
 
     border-bottom: solid .1px;
     padding: 2em;
@@ -69,8 +69,13 @@ h2{
     padding-left: 1.5em;
 }
 
+.nutri_par{
+    padding-bottom: 1em;
+}
+
 
 .cal{
+    border-bottom: solid .1px;
     display: flex;
     gap: 5em;
 }
