@@ -73,7 +73,23 @@ h2{
     padding-bottom: 1em;
 }
 
+.cal_num{
+    /* border: solid; */
+    margin-left: 5em;
+    
+}
 
+.carbs{
+    margin-left: 6em;
+}
+
+.protein{
+    margin-left: 5.4em ;
+}
+
+.fat {
+    margin-left: 7em;
+}
 .cal{
     border-bottom: solid .1px;
     display: flex;
