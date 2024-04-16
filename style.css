@@ -17,33 +17,38 @@ body{
         font-optical-sizing: auto;
         /* font-weight: <weight>; */
         font-style: normal;
-        color: ;
+        color: hsl(30, 10%, 34%);
 }
 
 .main_div{
     
     border: solid;
-    margin-inline: 23.5em;
+    margin-inline: 25em;
 }
 
 .head{
-    margin-block: .5em;
+    margin: .5em 0em 0em .5em ;
       font-family: "Young Serif", serif;
         font-weight: 400;
         font-style: normal;
+        color: hsl(24, 5%, 18%);
         
 }
 
 
 
 .first_com{
-    margin-bottom: 2em; 
+    margin: 1.5em;
+    font-size: 12.5px;
+    font-weight: 400;
 }
 
 
 .prep_time{
     background-color:hsl(330, 100%, 98%);
-    padding-inline: 3em;
+    margin-inline: 1em;
+    padding-inline: 2em;
+font-size: 12.5px;
    
 }
 
@@ -75,12 +80,14 @@ h2{
         font-weight: 400;
         font-style: normal;
         color: hsl(332, 51%, 32%);
+        
 }
 
 .ingre, .instru , .nutri{
 
     border-bottom: solid .1px;
     padding: 2em;
+    margin-inline: .5em;
     
 }
 
@@ -90,10 +97,16 @@ h2{
 
 .ingre_list{
     padding-left: 1.5em;
+    font-size: 12.5px;
 }
 
 .nutri_par{
     padding-bottom: 1em;
+    font-size: 12.5px;
+}
+
+.nutrition_list{
+    font-size: 12.5px;
 }
 
 .cal_num{
