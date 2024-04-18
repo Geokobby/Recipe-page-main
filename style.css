@@ -90,12 +90,20 @@ h2{
         
 }
 
-.ingre, .instru , .nutri{
+.ingre, .instru {
 
     border-bottom: solid .1px;
     padding: 2em;
     margin-inline: .5em;
     
+}
+
+.nutri {
+
+    
+    padding: 2em;
+    margin-inline: .5em;
+
 }
 
 .nut_name{
@@ -141,4 +149,21 @@ h2{
     gap: 5em;
     padding-block: 0.5em;
     padding-left: 2em;
+}
+
+@media screen and (max-width: 600px)
+{
+   .main_div{
+     width: 100%;
+     border-radius: 0em;
+   }
+
+   
+
+   img{
+    /* border: solid; */
+    width: 25em;
+    margin: 1em;
+
+   }
 }
