@@ -27,6 +27,11 @@ body{
     border-radius: 2em;
     margin-inline: 25em;
 }
+img{
+    /* border: solid; */
+    margin: 2em;
+    border-radius: 2em;
+}
 
 .head{
     margin: .5em 0em 0em .5em ;
