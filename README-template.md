@@ -57,5 +57,5 @@ learned how to change bullet color of list with (li::maker) tag in css
 
 
 ## Acknowledgments
- Thanks to W3 schools for being a good library for developers 
+ Thanks to W3 schools for being a good library for developers. 
 
