@@ -11,7 +11,7 @@ body{
     /* border: solid; */
     width: 100%;
     height: fit-content;
-    margin-block: 2.5em;
+    margin-block: 5em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,7 +58,7 @@ img{
 
 .prep_time{
     background-color:hsl(330, 100%, 98%);
-    margin-inline: 1em;
+    margin-inline: 2em;
     padding-inline: 2em;
 font-size: 15px;
    
@@ -105,16 +105,16 @@ li::marker{
 
 .ingre, .instru {
 
-    border-bottom: solid .1px;
+    border-bottom:  .1em hsl(30, 18%, 87%) solid ;
     padding: 2em;
-    margin-inline: .5em;
+    margin-inline: 2em;
 }
 
 .nutri {
 
     
     padding: 2em;
-    margin-inline: .5em;
+    margin-inline: 2em;
 
 }
 
@@ -158,7 +158,7 @@ li::marker{
 }
 
 .cal{
-    border-bottom: solid .1px;
+    border-bottom: solid .1em hsl(30, 18%, 87%);
     display: flex;
     gap: 5em;
     padding-block: 0.5em;
