@@ -10,7 +10,7 @@
 body{
     /* border: solid; */
     width: 100%;
-    height: fit-content;
+    height: 100%;
     margin-block: 5em;
     display: flex;
     align-items: center;
@@ -167,6 +167,10 @@ li::marker{
 
 @media screen and (max-width: 600px)
 {
+    body{
+        margin-block: 0em;
+    }
+
    .main_div{
      width: 100%;
      border-radius: 0em;
