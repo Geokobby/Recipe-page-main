@@ -39,18 +39,14 @@ Image is Located in the screenshot folder
 - Flexbox
 - CSS Grid
 
+## What I learned
 
-
-
-
-
+learned how to change bullet color of list with (li::maker) tag in css 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [changing bullet color of lists](https://www.w3schools.com/howto/howto_css_bullet_color.asp) - This helped me to change the bullet color the list
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -61,5 +57,5 @@ Image is Located in the screenshot folder
 
 
 ## Acknowledgments
-
+ Thanks to W3 schools for being a good library for developers 
 
