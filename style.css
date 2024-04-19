@@ -10,7 +10,8 @@
 body{
     /* border: solid; */
     width: 100%;
-    /* height: fit-content; */
+    height: fit-content;
+    margin-block: 2.5em;
     display: flex;
     align-items: center;
     justify-content: center;
