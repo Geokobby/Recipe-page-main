@@ -90,6 +90,11 @@ h2{
         
 }
 
+li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
 .ingre, .instru {
 
     border-bottom: solid .1px;
