@@ -24,6 +24,9 @@ body{
         background-color: hsl(30, 54%, 90%);
 }
 
+img{
+    max-width: 100%;
+}
 
 .main_div{
   
@@ -34,8 +37,9 @@ body{
 
 img{
     /* border: solid; */
-    margin: 2em;
+    margin: 0 auto;
     border-radius: 2em;
+    padding: 1em;
 }
 
 .head{
